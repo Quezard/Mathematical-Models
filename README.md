@@ -7,7 +7,7 @@ A collection of mathematical models coded in python.
 
 ## TODO
 linear regression\
-logistic regression\
-exponential model\
+logarithmic regression\
+exponential regression\
 probabilistic model\
 deep neural network
