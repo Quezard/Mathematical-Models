@@ -3,11 +3,10 @@ A collection of mathematical models coded in python.
 
 
 ## Available models
-
+logarithmic regression
 
 ## TODO
 linear regression\
-logarithmic regression\
 exponential regression\
 probabilistic model\
 deep neural network
